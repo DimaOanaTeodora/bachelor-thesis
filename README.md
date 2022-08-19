@@ -1,6 +1,8 @@
 # Adoptă un prieten / Adopt a friend :dog2:
 Pet adoption app for Android users :iphone:
 
+*Bachelor thesis - June 2022, Computer Science, University of Bucharest*
+
 ![tablet](https://user-images.githubusercontent.com/61749814/185570844-a3082b8b-0526-4143-bc03-08ea479baf80.png)
 
 ### Abstract
