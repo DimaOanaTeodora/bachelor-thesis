@@ -1,5 +1,6 @@
 # Adoptă un prieten / Adopt a friend :dog2:
 Pet adoption app for Android users :iphone:
+[YouTube demo](https://youtu.be/4QKiGIv3yH8)
 
 *Bachelor's thesis - June 2022, Computer Science, University of Bucharest*
 
